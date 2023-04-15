@@ -1,0 +1,120 @@
+body {
+  padding: 0;
+}
+.body-container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px;
+  padding-bottom: 0;
+}
+.hello {
+  color: #000000;
+  font-size: 25pt;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.heading {
+  font-size: 36px;
+}
+
+.image-container {
+  width: 50px;
+}
+
+.image {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.paragraph {
+  font-size: 15pt;
+  text-align: "justify";
+}
+.body-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-wrapper {
+  width: 50%;
+  padding: 0 20px;
+}
+
+.image-wrapper {
+  width: 50%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 50px 0;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-section {
+  padding: 0 20px;
+  margin-bottom: 30px;
+}
+
+.footer-section h3 {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-bottom {
+  background-color: #222;
+  padding: 20px 0;
+  text-align: center;
+}
+.header {
+  background-image: url("https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/food-beverage-nutrition/foodnavigator.com/news/business/angry-bakers-dismayed-lack-of-action-on-sourdough-imitations/15733158-1-eng-GB/Angry-bakers-dismayed-lack-of-action-on-sourdough-imitations.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px; /* adjust the height to your liking */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #fefefe;
+  text-align: center;
+  font-size: 3rem;
+}
