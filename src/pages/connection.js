@@ -13,7 +13,12 @@ class Connection extends React.Component {
             <p>Sunday: Closed</p>
           </div>
           <div className="contact-form">
-            <h2>Message us!</h2>
+            <h2>
+              <span role="img" aria-label="envelope">
+                &#x2709;
+              </span>
+              Message us!
+            </h2>
             <form>
               <input
                 type="text"
@@ -38,6 +43,7 @@ class Connection extends React.Component {
               <button type="submit">Forward</button>
             </form>
           </div>
+          <h2>We are here!</h2>
           <div className="contact-image">
             <img src="https://utcakereso.hu/tile/osm/18/144950/91675.png?3" />
           </div>

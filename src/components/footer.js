@@ -32,16 +32,13 @@ const Hello = () => {
               <a href="/">Home</a>
             </li>
             <li>
-              <a href="/about">About</a>
+              <a href="/menu">Menu</a>
             </li>
             <li>
-              <a href="/services">Services</a>
+              <a href="/gallery">Gallery</a>
             </li>
             <li>
-              <a href="/blog">Blog</a>
-            </li>
-            <li>
-              <a href="/contact">Contact</a>
+              <a href="/connection">Connection</a>
             </li>
           </ul>
         </div>
@@ -49,22 +46,22 @@ const Hello = () => {
           <h3>Follow us</h3>
           <ul>
             <li>
-              <a href="#">
+              <a href="facebook.com/danicabullo">
                 <i className="fa fa-facebook"></i>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="twitter.com/CabulloDan">
                 <i className="fa fa-twitter"></i>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="instagram.com/danica.ui">
                 <i className="fa fa-instagram"></i>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="linkedin.com/danicacabullo">
                 <i className="fa fa-linkedin"></i>
               </a>
             </li>
@@ -73,7 +70,7 @@ const Hello = () => {
       </div>
       <div className="footer-bottom">
         <p>Created by Danica Cabullo</p>
-        <p>© 2023 Butter Bliss. All rights reserved.</p>
+        <p>© 2023 Mellow Bliss. All rights reserved.</p>
       </div>
     </footer>
   );

@@ -40,6 +40,14 @@ const Gallery = () => {
 
   return (
     <div>
+      <center>
+        <h2>
+          Mellow Bliss Gallery
+          <span role="img" aria-label="ice cream">
+            &#x1F366;
+          </span>
+        </h2>
+      </center>
       <GalleryContainer>
         {images.map((image, index) => (
           <Image key={index} src={image} alt={`Image ${index}`} />
