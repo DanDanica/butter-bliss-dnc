@@ -9,19 +9,20 @@ body {
 }
 .logo {
   margin-right: 100px;
+  background-image: url("./mellow.png");
+  height: 100px;
+  color: transparent;
+  background-size: 100%;
+  background-color: transparent;
+  background-repeat: no-repeat;
 }
 .NavStyle {
   align-items: center;
   font-size: 15pt;
   display: inline-flex;
   text-align: center;
-  margin-left: 10%;
+  margin-left: 5%;
   margin-right: 0;
-  /* Second Nav */
-  /* margin-right: 24px; */
-  /* Third Nav */
-  /* width: 100vw;
-  white-space: nowrap; */
   @media screen and (max-width: 768px) {
     display: none;
   }

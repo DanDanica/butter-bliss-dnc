@@ -12,11 +12,10 @@ const Navbar = () => {
   return (
     <>
       <Nav className="NavCont">
-        <Bars />
-
         <NavMenu className="NavStyle">
-          <p className="logo">asdasd</p>
-
+          <Bars />
+          <p className="logo"> asdasdaass</p>
+          {/* <img src="./mellow.png" alt="logo" className="logo" /> */}
           <NavLink to="/hello" activeStyle>
             Hello
           </NavLink>
