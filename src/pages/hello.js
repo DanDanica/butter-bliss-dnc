@@ -24,14 +24,14 @@ const Hello = () => {
       </div>
 
       <p className="paragraph">
-        Butter Bliss Bakeshop is a quaint and cozy bakery nestled in the heart
+        Mellow Bakeshop is a quaint and cozy bakery nestled in the heart
         of the city. The aroma of freshly baked goods fills the air, inviting
         customers to indulge in a wide selection of delicious treats. From
-        classic cookies to elaborate cakes, Butter Bliss offers a variety of
+        classic cookies to elaborate cakes, Mellow Bliss offers a variety of
         baked goods to satisfy any sweet tooth.
       </p>
       <p className="paragraph">
-        At Butter Bliss, we believe in using only the highest quality
+        At Mellow Bliss, we believe in using only the highest quality
         ingredients. We use real butter, fresh eggs, and the finest chocolates
         and fruits to create our baked goods. Our skilled bakers craft each item
         with care and attention to detail, ensuring that every bite is a
@@ -45,11 +45,11 @@ const Hello = () => {
         the occasion.
       </p>
       <p className="paragraph">
-        At Butter Bliss, we are more than just a bakery. We are a place where
+        At Mellow Bliss, we are more than just a bakery. We are a place where
         friends and family can gather to share a cup of coffee and a delicious
         treat. Our warm and welcoming atmosphere is the perfect setting for a
         cozy morning coffee or an afternoon catch-up session with friends. Come
-        visit us and experience the blissful indulgence of Butter Bliss
+        visit us and experience the blissful indulgence of Mellow Bliss
         Bakeshop.
       </p>
       <Footer />
